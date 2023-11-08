@@ -1,0 +1,29 @@
+{
+  "name": "y-f-b",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "yasin": "echo 'Benim adim yasin'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Yasin Furkan Berktas",
+  "license": "ISC",
+  "dependencies": {
+    "mogoose": "^0.0.1-security",
+    "nodemailer": "^6.9.7",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yfurkanberktas/y-f-b.git"
+  }
+}
